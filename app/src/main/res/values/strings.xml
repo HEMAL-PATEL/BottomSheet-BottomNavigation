@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+    <string name="title_about">About</string>
+    <string name="title_basic">Basic</string>
+    <string name="title_search">Search</string>
+</resources>
